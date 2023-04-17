@@ -1,0 +1,27 @@
+[
+  {
+    "title": "bici",
+    "price": 2000,
+    "id": 1
+  },
+  {
+    "title": "avion",
+    "price": 5000,
+    "id": 2
+  },
+  {
+    "title": "tren",
+    "price": 3500,
+    "id": 3
+  },
+  {
+    "title": "barco",
+    "price": 6500,
+    "id": 4
+  },
+  {
+    "title": "carrito",
+    "price": 500,
+    "id": 5
+  }
+]
